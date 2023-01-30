@@ -1,3 +1,4 @@
+// Salary
 // ta = Travelling allowance, da = dearness Allowance, gs = gross salary, bs = base salary 
 import java.util.Scanner;
 public class Salary {
